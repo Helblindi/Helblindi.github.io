@@ -27,7 +27,7 @@ a.menulink { text-decoration:none;color:#606060;border-bottom:0px solid #aaaaaa;
 a.menulink:hover { text-decoration:none;color:#202020;border-bottom:1px solid #303030 }
 
 .text { margin-top:80px;line-height:125% }
-.textblock { padding-left:7px;width:640px;margin:0 auto;text-align:justify }
+.textblock { padding-left:7px;padding-bottom:1em;width:640px;margin:0 auto;text-align:justify }
 .textblockcentre { padding-left:2px;width:620px;text-align:center }
 .textblocklist { padding-left:7px;width:640px;margin:0 auto;line-height:150% }
 
