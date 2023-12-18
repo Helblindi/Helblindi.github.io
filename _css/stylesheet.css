@@ -7,7 +7,9 @@ body { margin: 0 0 0px;padding:0px;border:0px;font-size:20px }
 a { text-decoration:none;color:#404040;border-bottom:1px solid #aaaaaa;font-family:helvetica,arial }
 a:hover { text-decoration:none;color:#202020;border-bottom:1px solid #303030 }
 
-p { line-height:135% }
+p { line-height:135%}
+
+li{ margin: 10px 0;}
 
 sup, sub { vertical-align:baseline;position:relative;top:-0.4em }
 sub { top:0.4em }
